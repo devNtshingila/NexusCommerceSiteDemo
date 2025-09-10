@@ -50,7 +50,6 @@ To customize this website for a specific client:
 This project is created for demonstration purposes. Please ensure proper licensing for any stock images used in production.
 
 ## Credits
-Website designed by dev.nkosii - as specified in the footer
-
+Website designed by dev.nkosii
 ## Support
 For questions about this demo website, please contact the developer.
